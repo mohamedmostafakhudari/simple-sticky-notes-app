@@ -1,0 +1,22 @@
+{
+	"notes": [
+		{
+			"id": "f41840bf-877f-4fb7-b739-ca8b8d6e03cb",
+			"addingDate": "2024-08-04T05:29:08.606Z",
+			"title": "First Note",
+			"content": "abc"
+		},
+		{
+			"id": "9aca2215-bda1-45dd-83e1-804c38da0c43",
+			"addingDate": "2024-08-04T05:29:21.352Z",
+			"title": "Second Note",
+			"content": "def"
+		},
+		{
+			"id": "8967d16d-8926-495c-a2bb-b0ac3f2c28dc",
+			"addingDate": "2024-08-04T05:29:45.144Z",
+			"title": "Third Note",
+			"content": "ghi -- edited --"
+		}
+	]
+}
